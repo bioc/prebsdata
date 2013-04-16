@@ -1,0 +1,47 @@
+citEntry(entry="Article",
+  header="If you are using Custom CDF probe mapping files, please, cite:",
+  author = "Manhong Dai and Pinglang Wang and Andrew D Boyd and Georgi Kostov
+	and Brian Athey and Edward G Jones and William E Bunney and Richard
+	M Myers and Terry P Speed and Huda Akil and Stanley J Watson and
+	Fan Meng",
+  title = "{E}volving gene/transcript definitions significantly alter the interpretation
+	of {G}ene{C}hip data.",
+  journal = "Nucleic Acids Research",
+  year = "2005",
+  volume = "33",
+  pages = "e175",
+  number = "20",
+  url = "http://dx.doi.org/10.1093/nar/gni179",
+  textVersion = paste(
+    "Manhong Dai and Pinglang Wang and Andrew D Boyd and Georgi Kostov
+	and Brian Athey and Edward G Jones and William E Bunney and Richard
+	M Myers and Terry P Speed and Huda Akil and Stanley J Watson and
+	Fan Meng",
+    "Evolving gene/transcript definitions significantly alter the interpretation
+	of GeneChip data.",
+    "Nucleic Acids Research 33(20):e175, 2005.",
+    "DOI: 10.1093/nar/gni179."
+  )
+)
+
+citEntry(entry="Article",
+  header="The sample BAM files contain a subset of reads from this publication:",
+  author = "John C Marioni and Christopher E Mason and Shrikant M Mane and Matthew
+	Stephens and Yoav Gilad",
+  title = "{RNA}-seq: an assessment of technical reproducibility and comparison
+	with gene expression arrays.",
+  journal = "Genome Research",
+  year = "2008",
+  volume = "18",
+  pages = "1509-1517",
+  number = "9",
+  url = "http://dx.doi.org/10.1101/gr.079558.108",
+  textVersion = paste(
+    "John C Marioni and Christopher E Mason and Shrikant M Mane and Matthew
+	Stephens and Yoav Gilad",
+    "{RNA}-seq: an assessment of technical reproducibility and comparison
+	with gene expression arrays.",
+    "Genome Research 18(9):1509-1517, 2008.",
+    "DOI: 10.1101/gr.079558.108."
+  )
+)
